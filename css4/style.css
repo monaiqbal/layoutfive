@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+}
+.header{
+    background-color: pink;
+    text-align: center;
+    height: 100px;
+}
+.bar{
+    background-color: lightblue;
+    text-align: center;
+    height: 100px;
+}
+.content{
+    overflow: hidden;
+}
+.left{
+    background-color: palegoldenrod;
+    text-align: center;
+    height: 300px;
+    width:60%;
+    float: left;
+}
+.right{
+    background-color: grey;
+ 
+    width:40% ;
+    float: left;
+    height: 300px;
+}
+.right h1{
+    padding-left: 320px;
+    padding-top: 130px;
+    padding-right: 60px;
+    padding-bottom: 60px;
+}
+.heading{
+ 
+    height: 20%;
+  
+    background-color: indianred;
+}
+.article{
+padding-top: 60px;
+    height: 40%;
+   
+ 
+    background-color:plum;
+}
+.footer{
+    background-color: sandybrown;
+    text-align: center;
+    height:100px;
+}
